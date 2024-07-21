@@ -1,0 +1,7 @@
+[submodule "email-guesser-frontend"]
+   path = email-guesser-frontend
+   url = https://github.com/amnaarehman22/email-guesser-frontend
+
+[submodule "email-guesser-backend"]
+   path = email-guesser-backend
+   url = https://github.com/amnaarehman22/email-guesser-backend
